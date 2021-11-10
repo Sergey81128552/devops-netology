@@ -7,3 +7,4 @@ Edited file README
 	*_override.tf.json
 	.terraformrc
 	terraform.rc
+New string
