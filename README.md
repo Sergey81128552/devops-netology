@@ -8,3 +8,4 @@ Edited file README
 	.terraformrc
 	terraform.rc
 New string
+Next new string
