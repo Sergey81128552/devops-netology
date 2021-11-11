@@ -9,3 +9,5 @@ Edited file README
 4. *_override.tf.json
 5. .terraformrc
 6. terraform.rc
+
+New line
